@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Scavenger</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_scanQr">Scan QR</string>
+    <string name="title_map">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_welcome">Welcome to UWF!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_term">Search Term</string>
+    <string name="search">search...</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="uwflogo">UWFLogo</string>
+    <string name="scavenger">Scavenger</string>
+
+    <string-array name="search_type_array">
+        <item>Building</item>
+        <item>Room</item>
+    </string-array>
+
+
+</resources>
